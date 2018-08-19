@@ -1,0 +1,10 @@
+[package]
+name = "helix_gem"
+version = "0.1.0"
+authors = [""]
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+helix = "0.7.5"
